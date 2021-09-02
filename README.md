@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
 ### Hi there 👋
 
 
@@ -6,4 +9,4 @@
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Data and Finance related topics.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
